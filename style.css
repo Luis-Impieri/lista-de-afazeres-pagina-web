@@ -1,0 +1,8 @@
+body {
+    color: rgb(71, 12, 12);
+}
+
+:checked + label {
+    text-decoration: line-through;
+    color: red
+}
